@@ -1,0 +1,28 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "english courses website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deniszavadskiy/yes.git"
+  },
+  "author": "denis.v.zavadskiy@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deniszavadskiy/yes/issues"
+  },
+  "homepage": "https://github.com/deniszavadskiy/yes#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-css-purge": "^1.0.27",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0"
+  }
+}
